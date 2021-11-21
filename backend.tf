@@ -3,7 +3,7 @@ terraform {
     organization = "NyaineCM_Devops_Co_Ltd"
 
     workspaces {
-      name = "tfc_api_git_actions"
+      name = "Testing_api_driven_workflows"
     }
   }
 }
